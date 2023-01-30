@@ -1,1 +1,2 @@
 # product_analytics
+This repository contains my efforts to compile and organize the knowledge and insights gained from studying under Data Analytics expert Anatoly Karpov. The materials cover important topics such as customer segmentation, product metrics, presentation of research results, prioritization, and product economics. I hope that it may be of use to product analysts, marketing professionals, or anyone interested in the field.
